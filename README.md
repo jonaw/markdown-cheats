@@ -38,7 +38,7 @@ cheatsheet for markdown
 ```
 ## Unordered
 * Unordered item
-	*Unordered sub item
+	* Unordered sub item
 * Unordered item
 	1. Ordered sub item
 * Unordered item
