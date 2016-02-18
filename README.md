@@ -51,7 +51,7 @@ cheatsheet for markdown
 
 ```
 #Emphasis
-*Emphasized* _text_
+Regular text _with_ *emphasizem*
 ```
-*Emphasized* _text_
+Regular text _with_ *emphasizem*
 ```
