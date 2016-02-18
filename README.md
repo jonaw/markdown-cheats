@@ -3,6 +3,10 @@ cheatsheet for markdown
 
 + [Headers](#headers)
 + [Lists](#lists)
+	+ [Ordered](#ordered)
+	+ [Unordered](#unordered)
++ [Emphasis](#emphasis)
++ [Horizontal lines](#horizontal-lines)
 
 # Headers
 # Header 1
@@ -52,13 +56,13 @@ cheatsheet for markdown
 ```
 
 #Emphasis
-Regular text _with_ *emphasizem*
+Regular text _with_ *emphasis*
 
-Regular text __with__ **emphasizem**
+Regular text __with__ **emphasis**
 ```
-Regular text _with_ *emphasizem*
+Regular text _with_ *emphasis*
 
-Regular text __with__ **emphasizem**
+Regular text __with__ **emphasis**
 ```
 
 # Horizontal lines
