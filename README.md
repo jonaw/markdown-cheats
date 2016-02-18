@@ -50,3 +50,6 @@ cheatsheet for markdown
 * Unordered item
 
 ```
+#Emphasis
+*Emphasized* _text_
+``` *Emphasized* _text_ ```
