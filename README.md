@@ -1,5 +1,4 @@
 # markdown-cheats
-cheatsheet for markdown
 
 + [Headers](#headers)
 + [Lists](#lists)
@@ -68,13 +67,13 @@ Proin non ultricies quam. Aliquam posuere justo in pellentesque iaculis. Suspend
 ```
 
 #Emphasis
-Regular text _with_ *emphasis*
+Regular text _with_ *emphasis*, using italics
 
-Regular text __with__ **emphasis**
+Regular text __with__ **emphasis**, using bold/strong
 ```
-Regular text _with_ *emphasis*
+Regular text _with_ *emphasis*, using italics
 
-Regular text __with__ **emphasis**
+Regular text __with__ **emphasis**, using bold/strong
 ```
 
 #Links
