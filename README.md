@@ -5,6 +5,7 @@ cheatsheet for markdown
 + [Lists](#lists)
 	+ [Ordered](#ordered)
 	+ [Unordered](#unordered)
++ [Paragraphs](#paragraphs)
 + [Emphasis](#emphasis)
 + [Horizontal lines](#horizontal-lines)
 + [Links](#links)
@@ -56,16 +57,6 @@ cheatsheet for markdown
 
 ```
 
-#Emphasis
-Regular text _with_ *emphasis*
-
-Regular text __with__ **emphasis**
-```
-Regular text _with_ *emphasis*
-
-Regular text __with__ **emphasis**
-```
-
 #Paragraphs
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis, augue id pulvinar sagittis, sapien augue hendrerit sem, a ullamcorper nisl justo sed nisl. Proin elementum vel lacus vitae eleifend.
 
@@ -76,10 +67,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis, augue id 
 Proin non ultricies quam. Aliquam posuere justo in pellentesque iaculis. Suspendisse consequat est sem, non sodales arcu euismod quis. Nulla non tristique massa. Ut ultricies condimentum sapien non laoreet. Proin.
 ```
 
+#Emphasis
+Regular text _with_ *emphasis*
+
+Regular text __with__ **emphasis**
+```
+Regular text _with_ *emphasis*
+
+Regular text __with__ **emphasis**
+```
+
 #Links
 [A link](https://en.wikipedia.org/wiki/Uniform_Resource_Locator)
+
+A [link](https://en.wikipedia.org/wiki/Uniform_Resource_Locator) in a line
 ```
 [A link](https://en.wikipedia.org/wiki/Uniform_Resource_Locator)
+A [link](https://en.wikipedia.org/wiki/Uniform_Resource_Locator) in a line
 ```
 
 # Horizontal lines
