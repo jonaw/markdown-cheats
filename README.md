@@ -52,4 +52,6 @@ cheatsheet for markdown
 ```
 #Emphasis
 *Emphasized* _text_
-``` *Emphasized* _text_ ```
+```
+*Emphasized* _text_
+```
