@@ -7,6 +7,7 @@ cheatsheet for markdown
 	+ [Unordered](#unordered)
 + [Emphasis](#emphasis)
 + [Horizontal lines](#horizontal-lines)
++ [Links](#links)
 
 # Headers
 # Header 1
@@ -63,6 +64,16 @@ Regular text __with__ **emphasis**
 Regular text _with_ *emphasis*
 
 Regular text __with__ **emphasis**
+```
+
+#Paragraphs
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis, augue id pulvinar sagittis, sapien augue hendrerit sem, a ullamcorper nisl justo sed nisl. Proin elementum vel lacus vitae eleifend.
+
+Proin non ultricies quam. Aliquam posuere justo in pellentesque iaculis. Suspendisse consequat est sem, non sodales arcu euismod quis. Nulla non tristique massa. Ut ultricies condimentum sapien non laoreet. Proin.
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis, augue id pulvinar sagittis, sapien augue hendrerit sem, a ullamcorper nisl justo sed nisl. Proin elementum vel lacus vitae eleifend.
+
+Proin non ultricies quam. Aliquam posuere justo in pellentesque iaculis. Suspendisse consequat est sem, non sodales arcu euismod quis. Nulla non tristique massa. Ut ultricies condimentum sapien non laoreet. Proin.
 ```
 
 #Links
