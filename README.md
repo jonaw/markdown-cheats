@@ -65,6 +65,12 @@ Regular text _with_ *emphasis*
 Regular text __with__ **emphasis**
 ```
 
+#Links
+[A link](https://en.wikipedia.org/wiki/Uniform_Resource_Locator)
+```
+[A link](https://en.wikipedia.org/wiki/Uniform_Resource_Locator)
+```
+
 # Horizontal lines
 * * *
 ***
