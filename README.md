@@ -1,17 +1,12 @@
 # markdown-cheats
 cheatsheet for markdown
 
-[Headers](#headers)
-
-[Lists](#lists)
-
-	[Ordered](#ordered)
-
-	[Unordered](#unordered)
-
-[Emphasis](#emphasis)
-
-[Horizontal lines](#horizontal-lines)
++ [Headers](#headers)
++ [Lists](#lists)
+	+ [Ordered](#ordered)
+	+ [Unordered](#unordered)
++ [Emphasis](#emphasis)
++ [Horizontal lines](#horizontal-lines)
 
 # Headers
 # Header 1
