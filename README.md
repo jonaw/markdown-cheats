@@ -7,8 +7,8 @@ cheatsheet for markdown
 	+ [Unordered](#unordered)
 + [Paragraphs](#paragraphs)
 + [Emphasis](#emphasis)
-+ [Horizontal lines](#horizontal-lines)
 + [Links](#links)
++ [Horizontal lines](#horizontal-lines)
 
 # Headers
 # Header 1
@@ -97,4 +97,5 @@ A [link](https://en.wikipedia.org/wiki/Uniform_Resource_Locator) in a line
 ***
 *****
 - - -
+---------------
 ```
