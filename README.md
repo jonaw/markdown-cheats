@@ -1,8 +1,8 @@
 # markdown-cheats
 cheatsheet for markdown
 
-[Headers](#headers)
-[Lists](#lists)
++ [Headers](#headers)
++ [Lists](#lists)
 
 # Headers
 # Header 1
