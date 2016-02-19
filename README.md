@@ -8,6 +8,7 @@
 + [Emphasis](#emphasis)
 + [Links](#links)
 + [Horizontal lines](#horizontal-lines)
++ [Strikethrough](#strikethrough)
 
 # Headers
 # Header 1
@@ -56,7 +57,7 @@
 
 ```
 
-#Paragraphs
+# Paragraphs
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis, augue id pulvinar sagittis, sapien augue hendrerit sem, a ullamcorper nisl justo sed nisl. Proin elementum vel lacus vitae eleifend.
 
 Proin non ultricies quam. Aliquam posuere justo in pellentesque iaculis. Suspendisse consequat est sem, non sodales arcu euismod quis. Nulla non tristique massa. Ut ultricies condimentum sapien non laoreet. Proin.
@@ -66,17 +67,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis, augue id 
 Proin non ultricies quam. Aliquam posuere justo in pellentesque iaculis. Suspendisse consequat est sem, non sodales arcu euismod quis. Nulla non tristique massa. Ut ultricies condimentum sapien non laoreet. Proin.
 ```
 
-#Emphasis
+# Emphasis
 Regular text _with_ *emphasis*, using italics
 
 Regular text __with__ **emphasis**, using bold/strong
 ```
 Regular text _with_ *emphasis*, using italics
-
+``
 Regular text __with__ **emphasis**, using bold/strong
 ```
 
-#Links
+# Links
 [A link](https://en.wikipedia.org/wiki/Uniform_Resource_Locator)
 
 A [link](https://en.wikipedia.org/wiki/Uniform_Resource_Locator) in a line
@@ -97,4 +98,10 @@ A [link](https://en.wikipedia.org/wiki/Uniform_Resource_Locator) in a line
 *****
 - - -
 ---------------
+```
+
+# Strikethrough
+Text with correction ~~no error~~
+```
+Text with correction ~~no error~~
 ```
