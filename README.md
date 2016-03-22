@@ -7,6 +7,7 @@
 + [Paragraphs](#paragraphs)
 + [Emphasis](#emphasis)
 + [Links](#links)
++ [Tables](#tables)
 + [Horizontal lines](#horizontal-lines)
 + [Strikethrough](#strikethrough)
 
